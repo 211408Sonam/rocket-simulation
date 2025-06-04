@@ -1,4 +1,4 @@
-# rocket-simulation
+# Rocket-simulation
 
 Data Modelling and Simulation Project
 Overview
